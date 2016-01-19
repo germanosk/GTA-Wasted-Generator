@@ -1,0 +1,26 @@
+/* 
+    Created on : 18/01/2016, 23:40:32
+    Author     : Germano "germanosk" Assis <germanobioinfo@gmail.com>
+*/
+
+@font-face {
+                font-family: "GTA";
+                src: url('pricedownbl.ttf')format("truetype");
+            }
+            .black
+            {
+                background-color: grey;
+            }
+            canvas { font-family: "GTA"; color: red;}
+            .blue
+            {
+                font-family: "GTA";
+                text-align: center;
+                width: 100%;
+                height: 100%;
+            }
+            .blue input
+            {
+                font-family: "GTA";
+                font-size: 10em;
+            }
